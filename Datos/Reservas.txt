@@ -1,0 +1,4 @@
+id;idHabitacion;fechaInicial;fechaFinal;Huespedes;cancelado;servicios;menu
+0;5;2023-06-04;2023-06-07;Paulo:2130458212:oitermv@gmail.com:3210829585:true;false;-1:false-0:false;-
+1;2;2023-09-23;2023-09-25;Juana:91283242:sogirnfve@gmail.com:3214984933:true;false;-;-
+2;6;2024-01-01;2024-01-05;Mario:610743912:weriufh231@gmail.com:3102589241:true;false;-;-

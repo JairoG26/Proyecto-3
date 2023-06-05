@@ -1,0 +1,16 @@
+para ingresar a las funciones, ingrese en username: luis_garcia, y en password: abc123
+
+Para cada función de la aplicación habrá 1 prueba:
+1. Ubicacion: 301, balcón: sí, vista: sí, cocina integrada: no, tipoHabitacion: Estándar, metros cuadrados: 13, aire acondicionado: sí,
+calefacción: no, TV: sí, cafetera: no, plancha: sí, secadora: no, valtajeAC: 110, USBA: sí, USBC: no, desayuno: no
+//entiendase sí como marcar las casillas.
+2. tipoHabitación: doble, valor: 100000, fechaInicio: 2023-08-08, fechaFinal: 2023-08-10, dias: MXJ
+3. Tipo: productoMenú, ID de servicio o producto: 3, nuevo valor: 15000
+4. Nombre: Mote de queso, tipo: comida, hora: 11:00-16:30, precio: 12000
+5. ID: 0, servicioOProducto: 0, IDServicio: 13, pagado¿?: false
+6. NumeroHuespedes: 1, fechaInicio: 2023-08-08, fechaFinal: 2023-08-10, IDhabitacion: 4, en los datos que piden del huesped puede poner sus datos personales.
+7. IDReserva: 0
+8. 
+9. IDReserva: 2
+10. NumeroHuespedes: 1, nombre: Juana, documento: 91283242
+11. Cartera: PayU, InfoReserva(ID): 2, nombre: Mario, numero: 1234432112344321, clave: 1029.

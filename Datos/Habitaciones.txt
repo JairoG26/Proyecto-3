@@ -1,0 +1,8 @@
+id;ubicacion;balcon;vista;cocinaIntegrada;tipoHabitacion;metrosCuadrados;aireAcondicionado;calefaccion;TV;cafetera;camaHipo;plancha;secadorPelo;voltajeAC;USBA;USBC;desayuno
+1;101;false;false;false;Estándar;11;true;true;false;false;false;false;false;110;true;true;false
+2;102;false;false;false;Doble;16;true;true;false;false;false;false;false;110;true;true;false
+3;103;false;false;false;Básica;8;true;true;false;false;false;false;false;110;true;true;false
+4;201;false;false;false;Básica Doble;14;true;true;false;false;false;false;false;110;true;true;false
+5;301;true;true;true;Suite;16;true;true;true;false;true;false;false;110;true;true;true
+6;401;true;true;true;Suite Doble;25;true;true;true;true;true;true;true;110;true;true;false
+7;202;true;true;false;Estándar;12;true;true;true;false;true;false;false;110;true;true;false

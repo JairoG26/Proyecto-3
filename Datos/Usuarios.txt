@@ -1,0 +1,7 @@
+nombre;usuario;contraseña;rol
+Luis García;luis_garcia;abc123;Empleado
+Pedro Sánchez;pedro_sanchez;contraseña;Empleado
+Javier López;javier_lopez;password;Empleado
+Diego González;diego_gonzalez;secret;Empleado
+Andrés Torres;andres_torres;admin;Empleado
+Jairo;jagc;12345;Cliente

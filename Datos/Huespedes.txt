@@ -1,0 +1,4 @@
+nombre;documento;email;celular;necesitaCama
+Juana;91283242;sogirnfve@gmail.com;3214984933;true
+Paulo;2130458212;oitermv@gmail.com;3210829585;true
+Mario;610743912;weriufh231@gmail.com;3102589241;true

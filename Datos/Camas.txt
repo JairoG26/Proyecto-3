@@ -1,0 +1,12 @@
+id;tamaño;cantidadPersonas;soloNiños
+1;doble;2;false
+2;doble;2;false
+2;doble;2;false
+3;individual;1;false
+4;individual;1;false
+4;individual;1;false
+5;king;2;false
+6;king;2;false
+6;king;2;false
+1;king;2;false
+7;doble;2;false
