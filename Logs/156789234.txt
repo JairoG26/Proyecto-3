@@ -1,0 +1,8 @@
+Huesped 1:
+    Reserva 1:
+    Habitación suite para 7 personas.
+    Reserva en el rango de fechas: 2023/06/05 - 2023/06/10.
+    Huespedes de la reserva:
+        Huesped 1:
+   Nombre:jairo.
+      156789234.

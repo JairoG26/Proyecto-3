@@ -1,0 +1,13 @@
+Reserva 1
+Habitación Doble para 4 personas.
+Rango de fechas 2023/09/23 - 2023/09/25.
+Precio por la habitacion dadas las tarifas: 3.0E11
+    Huesped 1:
+        Nombre:Juana
+        Documento:91283242
+        Email:sogirnfve@gmail.com
+        Celular:3214984933
+    Servicios Consumidos:
+    Productos consumidos del restaurante:
+TOTAL A PAGAR: 300000.0$
+Los Productos con * ya fueron pagados y no son contados en el precio final.

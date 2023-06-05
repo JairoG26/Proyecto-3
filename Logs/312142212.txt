@@ -1,0 +1,11 @@
+Huesped 1:
+    Reserva 1:
+    Habitación Estándar para 44 personas.
+    Reserva en el rango de fechas: 2023/09/24 - 2023/09/25.
+    Huespedes de la reserva:
+        Huesped 1:
+   Nombre:Pedro.
+      312142212.
+        Huesped 2:
+   Nombre:juana.
+      123407192.
